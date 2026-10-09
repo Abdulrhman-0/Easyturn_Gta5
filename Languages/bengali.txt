@@ -1,0 +1,98 @@
+# EasyTurn bengali (বাংলা)
+# Language code: bn
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=আলফা
+appearance=চেহারা
+args=আর্গুমেন্ট
+backgroundColor=ব্যাকগ্রাউন্ড রঙ
+backupButton=বর্তমান ভ্যানিলা ফাইল ব্যাকআপ করুন
+backupTitle=ভ্যানিলা ফাইল ব্যাকআপ
+bannedMods=নিষিদ্ধ মড
+bannedModsDesc=কোনো মড নিষিদ্ধ করতে টিক দিন। নিষিদ্ধ মড সবসময় বন্ধ থাকবে — মড টগল ও মূল স্ক্রিন আর কখনো চালু করবে না।
+battleyeOff=BattleEye বন্ধ
+battleyeOn=BattleEye চালু
+blue=নীল
+blur=ব্যাকগ্রাউন্ড ব্লার
+browse=ব্রাউজ
+cancel=বাতিল
+colorPickerTitle=রঙ বাছুন
+confirmCopy1=এই ফোল্ডারের সব ফাইল:
+
+{0}
+
+গেম ফোল্ডারে কপি হবে এবং বর্তমান ফাইল ওভাররাইট করবে।
+
+চালিয়ে যাবেন?
+confirmCopy2=আপনি কি সত্যিই নিশ্চিত? এটি ফেরানো যাবে না।
+confirmCopyTitle=ভ্যানিলা ফাইল কপি করুন
+confirmOverwrite=এই ভার্সনের ব্যাকআপ আগে থেকেই আছে:
+
+{0}
+
+ওভাররাইট করবেন? কোনো ফাইল মুছে ফেলা হবে না।
+confirmRestore1=এই ফোল্ডারের সব ফাইল:
+
+{0}
+
+গেম ফোল্ডারে ফিরে কপি হবে এবং বর্তমান ফাইল ওভাররাইট করবে। হারানো বা নষ্ট .dll ঠিক করতে ব্যবহার করুন।
+
+চালিয়ে যাবেন?
+confirmRestore2=আপনি কি সত্যিই নিশ্চিত? এটি ফেরানো যাবে না।
+confirmRestoreTitle=ব্যাকআপ রিস্টোর করুন
+copyToGame=ফাইল গেম ফোল্ডারে কপি করুন
+currentUsed=এখন ব্যবহৃত
+customMods=কাস্টম মড সেটিং
+customModsDesc=আপনার .dll বা .asi ফাইলের নাম এখানে লিখুন (প্রতি লাইনে একটি):
+donate=দান করুন
+enabled=চালু
+errCopyFailed=কপি করা যায়নি:
+{0}
+
+{1}
+errGameRunning=এটি করার আগে GTA 5 বন্ধ করুন।
+errGameRunningTitle=গেম চালু আছে
+errInvalidFolder=নির্বাচিত ফোল্ডারে GTA5.exe পাওয়া যায়নি। GTA 5-এর মূল ফোল্ডার নির্বাচন করুন।
+errInvalidFolderTitle=ভুল ফোল্ডার
+errNoGamePath=আগে আপনার GTA 5 ফোল্ডার নির্বাচন করুন।
+errNoVanillaFiles=গেম ফোল্ডারে কোনো ভ্যানিলা .dll/.exe ফাইল পাওয়া যায়নি।
+fontColor=ফন্ট রঙ
+gameArgs=অতিরিক্ত গেম আর্গুমেন্ট
+gameArgsDesc=BattleEye আর্গুমেন্ট (-nobattleye -noBE) সবসময় স্বয়ংক্রিয়ভাবে যোগ হয়। এখানে শুধু অতিরিক্ত আর্গুমেন্ট লিখুন (স্পেস দিয়ে আলাদা করে)।
+gameFilesNote=GTA 5-এর নিজের ফাইল কখনো দেখানো হয় না এবং বন্ধও করা যায় না।
+green=সবুজ
+hex=হেক্স
+infoTitle=EasyTurn
+language=ভাষা
+madeBy=♥ দিয়ে Sensin তৈরি করেছে
+madeByShort=Sensin তৈরি করেছে
+modsOff=মড বন্ধ (অনলাইনের জন্য প্রস্তুত)
+modsOn=মড চালু (অনলাইনের জন্য প্রস্তুত নয়)
+newest=সর্বশেষ ভার্সন
+noBackups=এখনো কোনো ব্যাকআপ নেই।
+ok=ঠিক আছে
+onlineExclusions=অনলাইন মোড বাদ
+onlineExclusionsDesc=যে ফাইলগুলো অনলাইন রেডি চালু থাকলে বন্ধ থাকবে সেগুলো টিক দিন:
+onlineOff=অনলাইনে বন্ধ
+openFolder=ফোল্ডার খুলুন
+pathPlaceholder=অনুগ্রহ করে GTA 5 ফোল্ডার নির্বাচন করুন...
+ready=প্রস্তুত
+red=লাল
+resetAppearance=রিসেট
+restore=রিস্টোর করুন
+saveClose=সেভ করে বন্ধ করুন
+selectFolderTitle=GTA 5 ইনস্টল ফোল্ডার নির্বাচন করুন
+settings=সেটিংস
+statusBackupDone=ব্যাকআপ সম্পন্ন: {0}
+statusBattleEyeOff=BattleEye বন্ধ (args.txt লেখা হয়েছে)।
+statusBattleEyeOn=BattleEye ফিরিয়ে আনা হয়েছে (args.txt মুছে ফেলা হয়েছে)।
+statusCopied=ভ্যানিলা ফাইল গেম ফোল্ডারে কপি হয়েছে।
+statusFolderUpdated=গেম ফোল্ডার আপডেট হয়েছে।
+statusMods=মড মোড চালু হয়েছে।
+statusOnline=অনলাইন রেডি মোড চালু হয়েছে।
+statusRestored=ব্যাকআপ থেকে ফাইল রিস্টোর হয়েছে।
+statusSettingsSaved=সেটিংস সেভ হয়েছে।
+statusWorking=কাজ চলছে, অপেক্ষা করুন...
+title=EasyTurn মড ম্যানেজার
+transparency=স্বচ্ছতা

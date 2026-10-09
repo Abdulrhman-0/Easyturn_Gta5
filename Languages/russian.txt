@@ -1,0 +1,98 @@
+# EasyTurn russian (Русский)
+# Language code: ru
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=Альфа
+appearance=Внешний вид
+args=Аргументы
+backgroundColor=Цвет фона
+backupButton=Создать копию оригинальных файлов
+backupTitle=Копия оригинальных файлов
+bannedMods=Запрещённые моды
+bannedModsDesc=Отметьте мод, чтобы запретить его. Запрещённые моды остаются выключенными навсегда: кнопка модов и главный экран больше их не включат.
+battleyeOff=BattleEye ВЫКЛ
+battleyeOn=BattleEye ВКЛ
+blue=Синий
+blur=Размытие фона
+browse=Обзор
+cancel=Отмена
+colorPickerTitle=Выберите цвет
+confirmCopy1=Все файлы из:
+
+{0}
+
+будут скопированы в папку игры и заменят текущие.
+
+Продолжить?
+confirmCopy2=Вы точно уверены? Это нельзя отменить.
+confirmCopyTitle=Копировать оригинальные файлы
+confirmOverwrite=Копия для этой версии уже существует:
+
+{0}
+
+Перезаписать её? Ни один файл не будет удалён.
+confirmRestore1=Все файлы из:
+
+{0}
+
+будут скопированы обратно в папку игры и заменят текущие. Используйте это, если .dll пропал или повреждён.
+
+Продолжить?
+confirmRestore2=Вы точно уверены? Это нельзя отменить.
+confirmRestoreTitle=Восстановить из копии
+copyToGame=Скопировать файлы в папку игры
+currentUsed=Используется сейчас
+customMods=Настройка своих модов
+customModsDesc=Добавьте имена своих файлов .dll или .asi (по одному в строке):
+donate=Поддержать
+enabled=Вкл
+errCopyFailed=Не удалось скопировать:
+{0}
+
+{1}
+errGameRunning=Закройте GTA 5 перед этим действием.
+errGameRunningTitle=Игра запущена
+errInvalidFolder=GTA5.exe не найден в выбранной папке. Выберите главную папку GTA 5.
+errInvalidFolderTitle=Неверная папка
+errNoGamePath=Сначала выберите папку GTA 5.
+errNoVanillaFiles=В папке игры не найдено оригинальных файлов .dll/.exe.
+fontColor=Цвет шрифта
+gameArgs=Дополнительные аргументы игры
+gameArgsDesc=Аргументы BattleEye (-nobattleye -noBE) применяются автоматически всегда. Здесь добавьте только ДОПОЛНИТЕЛЬНЫЕ аргументы (через пробел).
+gameFilesNote=Файлы самой игры никогда не отображаются и не отключаются.
+green=Зелёный
+hex=Hex
+infoTitle=EasyTurn
+language=Язык
+madeBy=Сделано с ♥ от Sensin
+madeByShort=Сделал Sensin
+modsOff=Моды ОТКЛЮЧЕНЫ (готово к онлайну)
+modsOn=Моды ВКЛЮЧЕНЫ (не готово к онлайну)
+newest=Самая новая версия
+noBackups=Копий пока нет.
+ok=ОК
+onlineExclusions=Исключения для онлайна
+onlineExclusionsDesc=Отметьте файлы, которые должны быть ОТКЛЮЧЕНЫ при активном режиме Online Ready:
+onlineOff=Выкл в онлайне
+openFolder=Открыть папку
+pathPlaceholder=Выберите папку GTA 5...
+ready=Готово
+red=Красный
+resetAppearance=Сбросить
+restore=Восстановить
+saveClose=Сохранить и закрыть
+selectFolderTitle=Выберите папку установки GTA 5
+settings=Настройки
+statusBackupDone=Копия создана: {0}
+statusBattleEyeOff=BattleEye ВЫКЛЮЧЕН (создан args.txt).
+statusBattleEyeOn=BattleEye восстановлен (args.txt удалён).
+statusCopied=Оригинальные файлы скопированы в папку игры.
+statusFolderUpdated=Папка игры обновлена.
+statusMods=Режим модов включён.
+statusOnline=Режим Online Ready включён.
+statusRestored=Файлы восстановлены из копии.
+statusSettingsSaved=Настройки сохранены.
+statusWorking=Работаю, подождите...
+title=EasyTurn Mod Manager
+transparency=Прозрачность

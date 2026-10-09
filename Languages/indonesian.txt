@@ -1,0 +1,98 @@
+# EasyTurn indonesian (Bahasa Indonesia)
+# Language code: id
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=Alfa
+appearance=Tampilan
+args=Argumen
+backgroundColor=Warna latar
+backupButton=Cadangkan file vanilla saat ini
+backupTitle=Cadangan File Vanilla
+bannedMods=Mod Diblokir
+bannedModsDesc=Centang mod untuk memblokirnya. Mod yang diblokir tetap mati selamanya: tombol mod dan layar utama tidak akan menyalakannya lagi.
+battleyeOff=BattleEye MATI
+battleyeOn=BattleEye NYALA
+blue=Biru
+blur=Blur latar
+browse=Telusuri
+cancel=Batal
+colorPickerTitle=Pilih warna
+confirmCopy1=Semua file di:
+
+{0}
+
+akan disalin ke folder game dan menimpa file yang ada.
+
+Lanjutkan?
+confirmCopy2=Kamu benar-benar yakin? Ini tidak bisa dibatalkan.
+confirmCopyTitle=Salin file vanilla
+confirmOverwrite=Cadangan untuk versi ini sudah ada:
+
+{0}
+
+Timpa saja? Tidak ada file yang akan dihapus.
+confirmRestore1=Semua file di:
+
+{0}
+
+akan disalin kembali ke folder game, menimpa file yang ada. Gunakan ini untuk memperbaiki .dll yang hilang atau rusak.
+
+Lanjutkan?
+confirmRestore2=Kamu benar-benar yakin? Ini tidak bisa dibatalkan.
+confirmRestoreTitle=Pulihkan cadangan
+copyToGame=Salin file ke folder game
+currentUsed=Sedang digunakan
+customMods=Konfigurasi Mod Custom
+customModsDesc=Tambahkan nama file .dll atau .asi milikmu di sini (satu per baris):
+donate=Donasi
+enabled=Nyala
+errCopyFailed=Tidak bisa menyalin:
+{0}
+
+{1}
+errGameRunning=Tutup GTA 5 dulu sebelum melakukan ini.
+errGameRunningTitle=Game sedang berjalan
+errInvalidFolder=GTA5.exe tidak ditemukan di folder yang dipilih. Pilih folder utama GTA 5.
+errInvalidFolderTitle=Folder Tidak Valid
+errNoGamePath=Pilih folder GTA 5 dulu.
+errNoVanillaFiles=Tidak ada file .dll/.exe vanilla di folder game.
+fontColor=Warna font
+gameArgs=Argumen Tambahan Game
+gameArgsDesc=Argumen BattleEye (-nobattleye -noBE) selalu ditambahkan otomatis. Tambahkan hanya argumen TAMBAHAN di sini (dipisah spasi).
+gameFilesNote=File milik GTA 5 sendiri tidak pernah ditampilkan dan tidak bisa dimatikan.
+green=Hijau
+hex=Hex
+infoTitle=EasyTurn
+language=Bahasa
+madeBy=Dibuat dengan ♥ oleh Sensin
+madeByShort=Dibuat oleh Sensin
+modsOff=Mod MATI (siap online)
+modsOn=Mod NYALA (belum siap online)
+newest=Versi terbaru
+noBackups=Belum ada cadangan.
+ok=OK
+onlineExclusions=Pengecualian Mode Online
+onlineExclusionsDesc=Centang file yang harus MATI saat mode siap online aktif:
+onlineOff=Mati saat online
+openFolder=Buka folder
+pathPlaceholder=Pilih folder GTA 5...
+ready=Siap
+red=Merah
+resetAppearance=Atur ulang
+restore=Pulihkan
+saveClose=Simpan & Tutup
+selectFolderTitle=Pilih Folder Instalasi GTA 5
+settings=Pengaturan
+statusBackupDone=Cadangan selesai: {0}
+statusBattleEyeOff=BattleEye MATI (args.txt ditulis).
+statusBattleEyeOn=BattleEye dipulihkan (args.txt dihapus).
+statusCopied=File vanilla disalin ke folder game.
+statusFolderUpdated=Folder game diperbarui.
+statusMods=Mode mod diaktifkan.
+statusOnline=Mode siap online diaktifkan.
+statusRestored=File dipulihkan dari cadangan.
+statusSettingsSaved=Pengaturan disimpan.
+statusWorking=Sedang bekerja, mohon tunggu...
+title=EasyTurn Mod Manager
+transparency=Transparansi

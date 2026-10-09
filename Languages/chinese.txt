@@ -1,0 +1,98 @@
+# EasyTurn chinese (中文)
+# Language code: zh
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=不透明度
+appearance=外观
+args=参数
+backgroundColor=背景颜色
+backupButton=备份当前原版文件
+backupTitle=原版文件备份
+bannedMods=已封禁模组
+bannedModsDesc=勾选模组即可封禁。被封禁的模组将永久关闭：模组开关和主界面都不会再启用它们。
+battleyeOff=BattleEye 关闭
+battleyeOn=BattleEye 开启
+blue=蓝
+blur=背景模糊
+browse=浏览
+cancel=取消
+colorPickerTitle=选择颜色
+confirmCopy1=以下目录中的所有文件：
+
+{0}
+
+将被复制到游戏目录并覆盖当前文件。
+
+继续？
+confirmCopy2=你确定吗？此操作无法撤销。
+confirmCopyTitle=复制原版文件
+confirmOverwrite=该版本已有备份：
+
+{0}
+
+要覆盖它吗？不会删除任何文件。
+confirmRestore1=以下目录中的所有文件：
+
+{0}
+
+将被复制回游戏目录并覆盖当前文件。用于修复丢失或损坏的 .dll。
+
+继续？
+confirmRestore2=你确定吗？此操作无法撤销。
+confirmRestoreTitle=还原备份
+copyToGame=复制文件到游戏目录
+currentUsed=当前使用
+customMods=自定义模组设置
+customModsDesc=在这里填写你的 .dll 或 .asi 文件名（每行一个）：
+donate=捐赠
+enabled=开启
+errCopyFailed=无法复制：
+{0}
+
+{1}
+errGameRunning=请先关闭 GTA 5 再执行此操作。
+errGameRunningTitle=游戏正在运行
+errInvalidFolder=所选目录中没有找到 GTA5.exe。请选择 GTA 5 主目录。
+errInvalidFolderTitle=无效目录
+errNoGamePath=请先选择 GTA 5 目录。
+errNoVanillaFiles=游戏目录中没有找到原版 .dll/.exe 文件。
+fontColor=字体颜色
+gameArgs=额外启动参数
+gameArgsDesc=BattleEye 参数（-nobattleye -noBE）始终自动应用。这里只填写额外的启动参数（用空格分隔）。
+gameFilesNote=GTA 5 自带的文件不会列出，也无法关闭。
+green=绿
+hex=十六进制
+infoTitle=EasyTurn
+language=语言
+madeBy=由 Sensin 用 ♥ 制作
+madeByShort=Sensin 制作
+modsOff=模组关闭（已准备联机）
+modsOn=模组开启（未准备联机）
+newest=最新版本
+noBackups=还没有备份。
+ok=确定
+onlineExclusions=联机模式排除
+onlineExclusionsDesc=勾选在“联机就绪”开启时必须关闭的文件：
+onlineOff=联机时关闭
+openFolder=打开文件夹
+pathPlaceholder=请选择 GTA 5 文件夹...
+ready=就绪
+red=红
+resetAppearance=重置
+restore=还原
+saveClose=保存并关闭
+selectFolderTitle=选择 GTA 5 安装目录
+settings=设置
+statusBackupDone=备份完成：{0}
+statusBattleEyeOff=BattleEye 已关闭（已写入 args.txt）。
+statusBattleEyeOn=BattleEye 已还原（已删除 args.txt）。
+statusCopied=原版文件已复制到游戏目录。
+statusFolderUpdated=游戏目录已更新。
+statusMods=已开启模组模式。
+statusOnline=已开启联机就绪模式。
+statusRestored=已从备份还原文件。
+statusSettingsSaved=设置已保存。
+statusWorking=正在处理，请稍候...
+title=EasyTurn 模组管理器
+transparency=透明度

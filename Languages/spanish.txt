@@ -1,0 +1,98 @@
+# EasyTurn spanish (Español)
+# Language code: es
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=Alfa
+appearance=Apariencia
+args=Argumentos
+backgroundColor=Color de fondo
+backupButton=Hacer copia de los archivos originales
+backupTitle=Copia de archivos originales
+bannedMods=Mods prohibidos
+bannedModsDesc=Marca un mod para prohibirlo. Los mods prohibidos quedan apagados para siempre: el botón de mods y la pantalla principal nunca los activan.
+battleyeOff=BattleEye DESACTIVADO
+battleyeOn=BattleEye ACTIVADO
+blue=Azul
+blur=Desenfoque del fondo
+browse=Examinar
+cancel=Cancelar
+colorPickerTitle=Elige un color
+confirmCopy1=Todos los archivos de:
+
+{0}
+
+se copiarán en la carpeta del juego y sobrescribirán los actuales.
+
+¿Continuar?
+confirmCopy2=¿Estás completamente seguro? Esto no se puede deshacer.
+confirmCopyTitle=Copiar archivos originales
+confirmOverwrite=Ya existe una copia para esta versión:
+
+{0}
+
+¿Quieres sobrescribirla? No se eliminará ningún archivo.
+confirmRestore1=Todos los archivos de:
+
+{0}
+
+se copiarán de nuevo en la carpeta del juego, sobrescribiendo los actuales. Úsalo para arreglar un .dll ausente o dañado.
+
+¿Continuar?
+confirmRestore2=¿Estás completamente seguro? Esto no se puede deshacer.
+confirmRestoreTitle=Restaurar copia
+copyToGame=Copiar archivos a la carpeta del juego
+currentUsed=En uso actualmente
+customMods=Configuración de mods personalizados
+customModsDesc=Añade aquí los nombres de tus .dll o .asi personalizados (uno por línea):
+donate=Donar
+enabled=Activado
+errCopyFailed=No se pudo copiar:
+{0}
+
+{1}
+errGameRunning=Cierra GTA 5 antes de hacer esto.
+errGameRunningTitle=El juego está en ejecución
+errInvalidFolder=No se encontró GTA5.exe en la carpeta seleccionada. Selecciona la carpeta principal de GTA 5.
+errInvalidFolderTitle=Carpeta no válida
+errNoGamePath=Selecciona primero tu carpeta de GTA 5.
+errNoVanillaFiles=No se encontraron archivos .dll/.exe originales en la carpeta del juego.
+fontColor=Color de fuente
+gameArgs=Argumentos extra del juego
+gameArgsDesc=Los argumentos de BattleEye (-nobattleye -noBE) siempre se aplican automáticamente. Añade aquí solo argumentos EXTRA (separados por espacios).
+gameFilesNote=Los archivos propios de GTA 5 nunca se listan ni se pueden apagar.
+green=Verde
+hex=Hex
+infoTitle=EasyTurn
+language=Idioma
+madeBy=Hecho con ♥ por Sensin
+madeByShort=Hecho por Sensin
+modsOff=Mods DESACTIVADOS (Listo para online)
+modsOn=Mods ACTIVADOS (No listo para online)
+newest=Versión más nueva
+noBackups=Todavía no hay copias.
+ok=Aceptar
+onlineExclusions=Exclusiones del modo online
+onlineExclusionsDesc=Marca los archivos que deben DESACTIVARSE mientras Online Ready está activo:
+onlineOff=Desactivado en online
+openFolder=Abrir carpeta
+pathPlaceholder=Selecciona la carpeta de GTA 5...
+ready=Listo
+red=Rojo
+resetAppearance=Restablecer
+restore=Restaurar
+saveClose=Guardar y cerrar
+selectFolderTitle=Selecciona la carpeta de instalación de GTA 5
+settings=Ajustes
+statusBackupDone=Copia completada: {0}
+statusBattleEyeOff=BattleEye está DESACTIVADO (se creó args.txt).
+statusBattleEyeOn=BattleEye restaurado (se eliminó args.txt).
+statusCopied=Archivos originales copiados a la carpeta del juego.
+statusFolderUpdated=Carpeta del juego actualizada.
+statusMods=Modo Mods Ready activado.
+statusOnline=Modo Online Ready activado.
+statusRestored=Archivos restaurados desde la copia.
+statusSettingsSaved=Ajustes guardados.
+statusWorking=Trabajando, espera por favor...
+title=EasyTurn Mod Manager
+transparency=Transparencia

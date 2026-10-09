@@ -1,0 +1,98 @@
+# EasyTurn english (English)
+# Language code: en
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=Alpha
+appearance=Appearance
+args=Args
+backgroundColor=Background color
+backupButton=Back up current vanilla files
+backupTitle=Vanilla Files Backup
+bannedMods=Banned Mods
+bannedModsDesc=Tick a mod to ban it. Banned mods stay off for good: the Mods toggle and the main screen never turn them back on.
+battleyeOff=BattleEye OFF
+battleyeOn=BattleEye ON
+blue=Blue
+blur=Background blur
+browse=Browse
+cancel=Cancel
+colorPickerTitle=Pick a color
+confirmCopy1=All files inside:
+
+{0}
+
+will be copied into your game folder and will overwrite the current files.
+
+Continue?
+confirmCopy2=Are you really sure? This cannot be undone.
+confirmCopyTitle=Copy vanilla files
+confirmOverwrite=A backup for this version already exists:
+
+{0}
+
+Do you want to overwrite it? No file will be deleted.
+confirmRestore1=All files inside:
+
+{0}
+
+will be copied back into your game folder, overwriting the current files. Use this to fix a missing or broken .dll.
+
+Continue?
+confirmRestore2=Are you really sure? This cannot be undone.
+confirmRestoreTitle=Restore backup
+copyToGame=Copy files to game folder
+currentUsed=Current used one
+customMods=Custom Mods Configuration
+customModsDesc=Add your custom .dll or .asi filenames here (one per line):
+donate=Donate
+enabled=On
+errCopyFailed=Could not copy:
+{0}
+
+{1}
+errGameRunning=Please close GTA 5 before doing this.
+errGameRunningTitle=Game is running
+errInvalidFolder=GTA5.exe not found in the selected folder. Please select the main GTA 5 folder.
+errInvalidFolderTitle=Invalid Folder
+errNoGamePath=Please select your GTA 5 folder first.
+errNoVanillaFiles=No vanilla .dll/.exe files were found in the game folder.
+fontColor=Font color
+gameArgs=Extra Game Arguments
+gameArgsDesc=The BattlEye arguments (-nobattleye -noBE) are always applied automatically. Add any EXTRA launch arguments here (space-separated).
+gameFilesNote=GTA 5's own files are never listed and can never be turned off.
+green=Green
+hex=Hex
+infoTitle=EasyTurn
+language=Language
+madeBy=Made with ♥ by Sensin
+madeByShort=Made by Sensin
+modsOff=Mods OFF (Ready for Online)
+modsOn=Mods ON (Not Ready for Online)
+newest=Newest version
+noBackups=No backups yet.
+ok=OK
+onlineExclusions=Online Mode Exclusions
+onlineExclusionsDesc=Tick the files that must be turned OFF while Online Ready is active:
+onlineOff=Off in Online
+openFolder=Open folder
+pathPlaceholder=Please select GTA 5 folder...
+ready=Ready
+red=Red
+resetAppearance=Reset
+restore=Restore
+saveClose=Save & Close
+selectFolderTitle=Select GTA 5 Installation Folder
+settings=Settings
+statusBackupDone=Backup finished: {0}
+statusBattleEyeOff=BattleEye is OFF (args.txt written).
+statusBattleEyeOn=BattleEye restored (args.txt removed).
+statusCopied=Vanilla files copied to the game folder.
+statusFolderUpdated=Game folder updated.
+statusMods=Mods Ready mode enabled.
+statusOnline=Online Ready mode enabled.
+statusRestored=Files restored from the backup.
+statusSettingsSaved=Settings saved.
+statusWorking=Working, please wait...
+title=EasyTurn Mod Manager
+transparency=Transparency

@@ -1,0 +1,98 @@
+# EasyTurn urdu (اردو)
+# Language code: ur
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=الفا
+appearance=ظاہری شکل
+args=آرگیومنٹس
+backgroundColor=پس منظر کا رنگ
+backupButton=موجودہ ونلا فائلوں کا بیک اپ بنائیں
+backupTitle=ونلا فائل بیک اپ
+bannedMods=پابند ماڈز
+bannedModsDesc=کسی ماڈ پر نشان لگا کر اسے پابند کریں۔ پابند ماڈ ہمیشہ بند رہیں گے — ماڈز بٹن اور مین اسکرین انہیں دوبارہ آن نہیں کریں گے۔
+battleyeOff=BattleEye آف
+battleyeOn=BattleEye آن
+blue=نیلا
+blur=پس منظر دھندلاپن
+browse=براؤز
+cancel=منسوخ
+colorPickerTitle=رنگ منتخب کریں
+confirmCopy1=اس فولڈر کی تمام فائلیں:
+
+{0}
+
+گیم فولڈر میں کاپی ہوں گی اور موجودہ فائلوں کو اوور رائٹ کریں گی۔
+
+جاری رکھیں؟
+confirmCopy2=کیا آپ واقعی اس بات پر یقین رکھتے ہیں؟ اسے واپس نہیں کیا جا سکتا۔
+confirmCopyTitle=ونلا فائلیں کاپی کریں
+confirmOverwrite=اس ورژن کا بیک اپ پہلے سے موجود ہے:
+
+{0}
+
+کیا آپ اسے اوور رائٹ کرنا چاہتے ہیں؟ کوئی فائل حذف نہیں ہوگی۔
+confirmRestore1=اس فولڈر کی تمام فائلیں:
+
+{0}
+
+گیم فولڈر میں واپس کاپی ہوں گی اور موجودہ فائلوں کو اوور رائٹ کریں گی۔ غائب یا خراب .dll ٹھیک کرنے کے لیے استعمال کریں۔
+
+جاری رکھیں؟
+confirmRestore2=کیا آپ واقعی اس بات پر یقین رکھتے ہیں؟ اسے واپس نہیں کیا جا سکتا۔
+confirmRestoreTitle=بیک اپ بحال کریں
+copyToGame=فائلیں گیم فولڈر میں کاپی کریں
+currentUsed=فی الحال استعمال میں
+customMods=کسٹم ماڈ سیٹنگ
+customModsDesc=اپنے .dll یا .asi فائل نام یہاں لکھیں (ایک فی لائن):
+donate=عطیہ دیں
+enabled=آن
+errCopyFailed=کاپی نہیں ہو سکی:
+{0}
+
+{1}
+errGameRunning=یہ کرنے سے پہلے GTA 5 بند کریں۔
+errGameRunningTitle=گیم چل رہی ہے
+errInvalidFolder=منتخب فولڈر میں GTA5.exe نہیں ملا۔ براہِ کرم GTA 5 کا مرکزی فولڈر منتخب کریں۔
+errInvalidFolderTitle=غلط فولڈر
+errNoGamePath=پہلے اپنا GTA 5 فولڈر منتخب کریں۔
+errNoVanillaFiles=گیم فولڈر میں کوئی ونلا .dll/.exe فائل نہیں ملی۔
+fontColor=فونٹ رنگ
+gameArgs=اضافی گیم آرگیومنٹس
+gameArgsDesc=BattleEye آرگیومنٹس (-nobattleye -noBE) ہمیشہ خودکار طور پر لگتے ہیں۔ یہاں صرف اضافی آرگیومنٹس لکھیں (خالی جگہ سے الگ کر کے)۔
+gameFilesNote=خود GTA 5 کی فائلیں کبھی نہیں دکھائی جاتیں اور بند نہیں کی جا سکتیں۔
+green=سبز
+hex=ہیکس
+infoTitle=EasyTurn
+language=زبان
+madeBy=♥ کے ساتھ Sensin کی طرف سے
+madeByShort=Sensin کی طرف سے
+modsOff=ماڈز آف (آن لائن کے لیے تیار)
+modsOn=ماڈز آن (آن لائن کے لیے تیار نہیں)
+newest=تازہ ترین ورژن
+noBackups=ابھی کوئی بیک اپ نہیں۔
+ok=ٹھیک ہے
+onlineExclusions=آن لائن موڈ استثنائیں
+onlineExclusionsDesc=جو فائلیں آن لائن ریڈی آن ہونے پر بند ہونی چاہئیں، ان پر نشان لگائیں:
+onlineOff=آن لائن میں آف
+openFolder=فولڈر کھولیں
+pathPlaceholder=براہِ کرم GTA 5 فولڈر منتخب کریں...
+ready=تیار
+red=سرخ
+resetAppearance=ری سیٹ
+restore=بحال کریں
+saveClose=محفوظ کریں اور بند کریں
+selectFolderTitle=GTA 5 انسٹال فولڈر منتخب کریں
+settings=سیٹنگز
+statusBackupDone=بیک اپ مکمل: {0}
+statusBattleEyeOff=BattleEye آف ہے (args.txt لکھا گیا)۔
+statusBattleEyeOn=BattleEye بحال ہو گیا (args.txt ہٹا دیا گیا)۔
+statusCopied=ونلا فائلیں گیم فولڈر میں کاپی ہو گئیں۔
+statusFolderUpdated=گیم فولڈر اپ ڈیٹ ہو گیا۔
+statusMods=ماڈ موڈ آن ہو گیا۔
+statusOnline=آن لائن ریڈی موڈ آن ہو گیا۔
+statusRestored=بیک اپ سے فائلیں بحال ہو گئیں۔
+statusSettingsSaved=سیٹنگز محفوظ ہو گئیں۔
+statusWorking=کام جاری ہے، انتظار کریں...
+title=EasyTurn ماڈ مینیجر
+transparency=شفافیت

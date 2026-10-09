@@ -1,0 +1,98 @@
+# EasyTurn japanese (日本語)
+# Language code: ja
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=アルファ
+appearance=外観
+args=引数
+backgroundColor=背景色
+backupButton=現在のバニラファイルをバックアップ
+backupTitle=バニラファイルのバックアップ
+bannedMods=禁止した Mod
+bannedModsDesc=Mod にチェックすると禁止できます。禁止した Mod は完全にオフのままです。Mod スイッチやメイン画面で再び有効になることはありません。
+battleyeOff=BattleEye オフ
+battleyeOn=BattleEye オン
+blue=青
+blur=背景のぼかし
+browse=参照
+cancel=キャンセル
+colorPickerTitle=色を選択
+confirmCopy1=次のフォルダ内のすべてのファイル:
+
+{0}
+
+をゲームフォルダにコピーし、現在のファイルを上書きします。
+
+続行しますか？
+confirmCopy2=本当によろしいですか？元に戻せません。
+confirmCopyTitle=バニラファイルをコピー
+confirmOverwrite=このバージョンのバックアップは既にあります:
+
+{0}
+
+上書きしますか？ファイルは削除されません。
+confirmRestore1=次のフォルダ内のすべてのファイル:
+
+{0}
+
+をゲームフォルダに戻し、現在のファイルを上書きします。.dll の欠落や破損の修復に使います。
+
+続行しますか？
+confirmRestore2=本当によろしいですか？元に戻せません。
+confirmRestoreTitle=バックアップを復元
+copyToGame=ゲームフォルダにコピー
+currentUsed=現在使用中
+customMods=カスタム Mod の設定
+customModsDesc=自分の .dll / .asi ファイル名をここに追加してください（1 行に 1 つ）：
+donate=寄付
+enabled=オン
+errCopyFailed=コピーできませんでした:
+{0}
+
+{1}
+errGameRunning=この操作の前に GTA 5 を終了してください。
+errGameRunningTitle=ゲームが起動中です
+errInvalidFolder=選択したフォルダに GTA5.exe が見つかりません。GTA 5 のメインフォルダを選択してください。
+errInvalidFolderTitle=無効なフォルダ
+errNoGamePath=先に GTA 5 のフォルダを選択してください。
+errNoVanillaFiles=ゲームフォルダにバニラの .dll/.exe ファイルが見つかりませんでした。
+fontColor=文字色
+gameArgs=追加の起動引数
+gameArgsDesc=BattleEye の引数（-nobattleye -noBE）は常に自動で適用されます。追加の起動引数のみをここに入力してください（スペース区切り）。
+gameFilesNote=GTA 5 本体のファイルは表示されず、オフにもできません。
+green=緑
+hex=Hex
+infoTitle=EasyTurn
+language=言語
+madeBy=♥ を込めて Sensin 制作
+madeByShort=Sensin 制作
+modsOff=Mod オフ（オンライン対応）
+modsOn=Mod オン（オンライン未対応）
+newest=最新バージョン
+noBackups=バックアップはまだありません。
+ok=OK
+onlineExclusions=オンラインモードの除外
+onlineExclusionsDesc=オンライン対応モードが有効なときにオフにするファイルにチェックしてください：
+onlineOff=オンラインでオフ
+openFolder=フォルダを開く
+pathPlaceholder=GTA 5 のフォルダを選択してください...
+ready=準備完了
+red=赤
+resetAppearance=リセット
+restore=復元
+saveClose=保存して閉じる
+selectFolderTitle=GTA 5 のインストールフォルダを選択
+settings=設定
+statusBackupDone=バックアップ完了: {0}
+statusBattleEyeOff=BattleEye はオフです（args.txt を作成しました）。
+statusBattleEyeOn=BattleEye を復元しました（args.txt を削除しました）。
+statusCopied=バニラファイルをゲームフォルダにコピーしました。
+statusFolderUpdated=ゲームフォルダを更新しました。
+statusMods=Mod モードを有効にしました。
+statusOnline=オンライン対応モードを有効にしました。
+statusRestored=バックアップからファイルを復元しました。
+statusSettingsSaved=設定を保存しました。
+statusWorking=処理中です。お待ちください...
+title=EasyTurn Mod Manager
+transparency=透明度

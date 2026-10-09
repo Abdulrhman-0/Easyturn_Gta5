@@ -1,0 +1,98 @@
+# EasyTurn hindi (हिन्दी)
+# Language code: hi
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=अल्फा
+appearance=रूप
+args=आर्गुमेंट्स
+backgroundColor=पृष्ठभूमि रंग
+backupButton=मौजूदा वनीला फ़ाइलों का बैकअप लें
+backupTitle=वनीला फ़ाइल बैकअप
+bannedMods=प्रतिबंधित मॉड
+bannedModsDesc=किसी मॉड को प्रतिबंधित करने के लिए उस पर टिक करें। प्रतिबंधित मॉड हमेशा बंद रहेंगे — मॉड टॉगल और मुख्य स्क्रीन उन्हें दोबारा चालू नहीं करेंगे।
+battleyeOff=BattleEye बंद
+battleyeOn=BattleEye चालू
+blue=नीला
+blur=पृष्ठभूमि धुंधलापन
+browse=ब्राउज़
+cancel=रद्द करें
+colorPickerTitle=रंग चुनें
+confirmCopy1=इस फ़ोल्डर की सभी फ़ाइलें:
+
+{0}
+
+गेम फ़ोल्डर में कॉपी होंगी और मौजूदा फ़ाइलों को ओवरराइट करेंगी।
+
+जारी रखें?
+confirmCopy2=क्या आप वाकई सुनिश्चित हैं? इसे वापस नहीं किया जा सकता।
+confirmCopyTitle=वनीला फ़ाइलें कॉपी करें
+confirmOverwrite=इस वर्शन का बैकअप पहले से मौजूद है:
+
+{0}
+
+इसे ओवरराइट करें? कोई फ़ाइल डिलीट नहीं होगी।
+confirmRestore1=इस फ़ोल्डर की सभी फ़ाइलें:
+
+{0}
+
+गेम फ़ोल्डर में वापस कॉपी होंगी और मौजूदा फ़ाइलों को ओवरराइट करेंगी। गुम या खराब .dll ठीक करने के लिए इसका उपयोग करें।
+
+जारी रखें?
+confirmRestore2=क्या आप वाकई सुनिश्चित हैं? इसे वापस नहीं किया जा सकता।
+confirmRestoreTitle=बैकअप रिस्टोर करें
+copyToGame=फ़ाइलें गेम फ़ोल्डर में कॉपी करें
+currentUsed=अभी इस्तेमाल में
+customMods=कस्टम मॉड सेटिंग
+customModsDesc=अपने .dll या .asi फ़ाइल नाम यहाँ लिखें (एक पंक्ति में एक):
+donate=दान करें
+enabled=चालू
+errCopyFailed=कॉपी नहीं कर सका:
+{0}
+
+{1}
+errGameRunning=यह करने से पहले GTA 5 बंद करें।
+errGameRunningTitle=गेम चल रहा है
+errInvalidFolder=चुने गए फ़ोल्डर में GTA5.exe नहीं मिला। कृपया GTA 5 का मुख्य फ़ोल्डर चुनें।
+errInvalidFolderTitle=गलत फ़ोल्डर
+errNoGamePath=पहले अपना GTA 5 फ़ोल्डर चुनें।
+errNoVanillaFiles=गेम फ़ोल्डर में कोई वनीला .dll/.exe फ़ाइल नहीं मिली।
+fontColor=फ़ॉन्ट रंग
+gameArgs=अतिरिक्त गेम आर्गुमेंट्स
+gameArgsDesc=BattleEye आर्गुमेंट्स (-nobattleye -noBE) हमेशा अपने आप लगते हैं। यहाँ सिर्फ़ अतिरिक्त आर्गुमेंट लिखें (स्पेस से अलग करके)।
+gameFilesNote=GTA 5 की अपनी फ़ाइलें कभी नहीं दिखाई जातीं और बंद नहीं की जा सकतीं।
+green=हरा
+hex=हेक्स
+infoTitle=EasyTurn
+language=भाषा
+madeBy=♥ के साथ Sensin द्वारा बनाया गया
+madeByShort=Sensin द्वारा बनाया गया
+modsOff=मॉड बंद (ऑनलाइन के लिए तैयार)
+modsOn=मॉड चालू (ऑनलाइन के लिए तैयार नहीं)
+newest=सबसे नया वर्शन
+noBackups=अभी कोई बैकअप नहीं है।
+ok=ठीक है
+onlineExclusions=ऑनलाइन मोड अपवाद
+onlineExclusionsDesc=जो फ़ाइलें ऑनलाइन रेडी चालू होने पर बंद होनी चाहिए, उन्हें चुनें:
+onlineOff=ऑनलाइन में बंद
+openFolder=फ़ोल्डर खोलें
+pathPlaceholder=कृपया GTA 5 फ़ोल्डर चुनें...
+ready=तैयार
+red=लाल
+resetAppearance=रीसेट
+restore=रिस्टोर करें
+saveClose=सेव करें और बंद करें
+selectFolderTitle=GTA 5 इंस्टॉल फ़ोल्डर चुनें
+settings=सेटिंग्स
+statusBackupDone=बैकअप पूरा: {0}
+statusBattleEyeOff=BattleEye बंद है (args.txt लिखा गया)।
+statusBattleEyeOn=BattleEye बहाल किया गया (args.txt हटाया गया)।
+statusCopied=वनीला फ़ाइलें गेम फ़ोल्डर में कॉपी हो गईं।
+statusFolderUpdated=गेम फ़ोल्डर अपडेट हुआ।
+statusMods=मॉड मोड चालू हुआ।
+statusOnline=ऑनलाइन रेडी मोड चालू हुआ।
+statusRestored=बैकअप से फ़ाइलें रिस्टोर हो गईं।
+statusSettingsSaved=सेटिंग्स सेव हुईं।
+statusWorking=काम चल रहा है, कृपया रुकें...
+title=EasyTurn मॉड मैनेजर
+transparency=पारदर्शिता

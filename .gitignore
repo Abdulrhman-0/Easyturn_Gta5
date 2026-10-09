@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Backups created by the app itself (huge, machine specific)
+VanillaBackups/
+NotVanilla_Removed/
+
+# NOT redistributable: the game's own files and third-party tools.
+# The leading "\!" escapes the exclamation mark, which is special in .gitignore.
+\!Gta original files Original Files/
+Ref/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+*.log

@@ -1,0 +1,98 @@
+# EasyTurn turkish (Türkçe)
+# Language code: tr
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=Alfa
+appearance=Görünüm
+args=Argümanlar
+backgroundColor=Arka plan rengi
+backupButton=Mevcut orijinal dosyaları yedekle
+backupTitle=Orijinal Dosya Yedeği
+bannedMods=Yasaklı Modlar
+bannedModsDesc=Yasaklamak istediğiniz modu işaretleyin. Yasaklı modlar kalıcı olarak kapalı kalır: Modlar düğmesi ve ana ekran onları asla açmaz.
+battleyeOff=BattleEye KAPALI
+battleyeOn=BattleEye AÇIK
+blue=Mavi
+blur=Arka plan bulanıklığı
+browse=Gözat
+cancel=İptal
+colorPickerTitle=Bir renk seç
+confirmCopy1=Şu klasördeki tüm dosyalar:
+
+{0}
+
+oyun klasörünüze kopyalanacak ve mevcut dosyaların üzerine yazılacak.
+
+Devam edilsin mi?
+confirmCopy2=Gerçekten emin misiniz? Bu geri alınamaz.
+confirmCopyTitle=Orijinal dosyaları kopyala
+confirmOverwrite=Bu sürüm için bir yedek zaten var:
+
+{0}
+
+Üzerine yazmak istiyor musunuz? Hiçbir dosya silinmez.
+confirmRestore1=Şu klasördeki tüm dosyalar:
+
+{0}
+
+oyun klasörünüze geri kopyalanacak ve mevcut dosyaların üzerine yazılacak. Eksik veya bozuk bir .dll dosyasını düzeltmek için kullanın.
+
+Devam edilsin mi?
+confirmRestore2=Gerçekten emin misiniz? Bu geri alınamaz.
+confirmRestoreTitle=Yedeği geri yükle
+copyToGame=Dosyaları oyun klasörüne kopyala
+currentUsed=Şu an kullanılan
+customMods=Özel Mod Ayarları
+customModsDesc=Kendi .dll veya .asi dosya adlarınızı buraya ekleyin (her satıra bir tane):
+donate=Bağış yap
+enabled=Açık
+errCopyFailed=Kopyalanamadı:
+{0}
+
+{1}
+errGameRunning=Bunu yapmadan önce lütfen GTA 5'i kapatın.
+errGameRunningTitle=Oyun çalışıyor
+errInvalidFolder=Seçilen klasörde GTA5.exe bulunamadı. Lütfen ana GTA 5 klasörünü seçin.
+errInvalidFolderTitle=Geçersiz Klasör
+errNoGamePath=Lütfen önce GTA 5 klasörünüzü seçin.
+errNoVanillaFiles=Oyun klasöründe orijinal .dll/.exe dosyası bulunamadı.
+fontColor=Yazı rengi
+gameArgs=Ek Oyun Argümanları
+gameArgsDesc=BattleEye argümanları (-nobattleye -noBE) her zaman otomatik uygulanır. Buraya sadece EKSTRA başlatma argümanlarını yazın (boşlukla ayırın).
+gameFilesNote=GTA 5'in kendi dosyaları hiç listelenmez ve kapatılamaz.
+green=Yeşil
+hex=Hex
+infoTitle=EasyTurn
+language=Dil
+madeBy=♥ ile Sensin tarafından yapıldı
+madeByShort=Sensin yaptı
+modsOff=Modlar KAPALI (Online'a hazır)
+modsOn=Modlar AÇIK (Online'a hazır değil)
+newest=En yeni sürüm
+noBackups=Henüz yedek yok.
+ok=Tamam
+onlineExclusions=Online Mod Hariç Tutmaları
+onlineExclusionsDesc=Online Ready açıkken KAPATILACAK dosyaları işaretleyin:
+onlineOff=Online'da kapalı
+openFolder=Klasörü aç
+pathPlaceholder=Lütfen GTA 5 klasörünü seçin...
+ready=Hazır
+red=Kırmızı
+resetAppearance=Sıfırla
+restore=Geri yükle
+saveClose=Kaydet ve Kapat
+selectFolderTitle=GTA 5 Kurulum Klasörünü Seçin
+settings=Ayarlar
+statusBackupDone=Yedek tamamlandı: {0}
+statusBattleEyeOff=BattleEye KAPALI (args.txt yazıldı).
+statusBattleEyeOn=BattleEye geri yüklendi (args.txt silindi).
+statusCopied=Orijinal dosyalar oyun klasörüne kopyalandı.
+statusFolderUpdated=Oyun klasörü güncellendi.
+statusMods=Modlar hazır modu açıldı.
+statusOnline=Online Ready modu açıldı.
+statusRestored=Dosyalar yedekten geri yüklendi.
+statusSettingsSaved=Ayarlar kaydedildi.
+statusWorking=Çalışıyor, lütfen bekleyin...
+title=EasyTurn Mod Manager
+transparency=Saydamlık

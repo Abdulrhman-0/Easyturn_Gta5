@@ -1,0 +1,98 @@
+# EasyTurn arabic (العربية)
+# Language code: ar
+# One entry per line in the form  key=value
+# Keys: 74
+
+alpha=قناة الشفافية
+appearance=المظهر
+args=المعاملات
+backgroundColor=لون الخلفية
+backupButton=اعمل نسخة احتياطية للملفات الأصلية
+backupTitle=نسخة احتياطية للملفات الأصلية
+bannedMods=المودات المحظورة
+bannedModsDesc=علّم أي مود لحظره. المودات المحظورة تبقى متوقفة دائمًا: زر المودات والشاشة الرئيسية لن يعيدا تشغيلها.
+battleyeOff=BattleEye متوقف
+battleyeOn=BattleEye يعمل
+blue=أزرق
+blur=ضبابية الخلفية
+browse=تصفح
+cancel=إلغاء
+colorPickerTitle=اختر لونًا
+confirmCopy1=سيتم نسخ كل الملفات الموجودة في:
+
+{0}
+
+إلى مجلد اللعبة والكتابة فوق الملفات الحالية.
+
+هل تريد المتابعة؟
+confirmCopy2=هل أنت متأكد تمامًا؟ لا يمكن التراجع عن هذا.
+confirmCopyTitle=نسخ الملفات الأصلية
+confirmOverwrite=توجد نسخة احتياطية لهذا الإصدار بالفعل:
+
+{0}
+
+هل تريد الكتابة فوقها؟ لن يتم حذف أي ملف.
+confirmRestore1=سيتم نسخ كل الملفات الموجودة في:
+
+{0}
+
+إلى مجلد اللعبة مرة أخرى، مع الكتابة فوق الملفات الحالية. استخدم هذا لإصلاح أي ملف .dll ناقص أو تالف.
+
+هل تريد المتابعة؟
+confirmRestore2=هل أنت متأكد تمامًا؟ لا يمكن التراجع عن هذا.
+confirmRestoreTitle=استعادة النسخة الاحتياطية
+copyToGame=انسخ الملفات لمجلد اللعبة
+currentUsed=المستخدم حاليًا
+customMods=إعداد المودات المخصصة
+customModsDesc=أضف أسماء ملفات .dll أو .asi الخاصة بك هنا (كل اسم في سطر):
+donate=تبرّع
+enabled=تعمل
+errCopyFailed=تعذر النسخ:
+{0}
+
+{1}
+errGameRunning=من فضلك أغلق GTA 5 قبل تنفيذ هذا.
+errGameRunningTitle=اللعبة تعمل
+errInvalidFolder=لم يتم العثور على GTA5.exe في المجلد المحدد. اختر مجلد GTA 5 الرئيسي.
+errInvalidFolderTitle=مجلد غير صالح
+errNoGamePath=من فضلك اختر مجلد GTA 5 أولًا.
+errNoVanillaFiles=لم يتم العثور على أي ملفات .dll/.exe أصلية في مجلد اللعبة.
+fontColor=لون الخط
+gameArgs=معاملات تشغيل إضافية
+gameArgsDesc=يتم دائمًا إضافة معاملات BattleEye (-nobattleye -noBE) تلقائيًا. أضف هنا أي معاملات إضافية فقط (مفصولة بمسافة).
+gameFilesNote=ملفات GTA 5 نفسها لا تُعرض أبدًا ولا يمكن إيقافها.
+green=أخضر
+hex=هيكس
+infoTitle=EasyTurn
+language=اللغة
+madeBy=صُنع بـ ♥ بواسطة Sensin
+madeByShort=صنعها Sensin
+modsOff=المودات متوقفة (جاهز للأونلاين)
+modsOn=المودات تعمل (غير جاهز للأونلاين)
+newest=أحدث إصدار
+noBackups=لا توجد نسخ احتياطية بعد.
+ok=موافق
+onlineExclusions=استثناءات وضع الأونلاين
+onlineExclusionsDesc=علّم الملفات التي يجب إيقافها أثناء تفعيل وضع الأونلاين:
+onlineOff=متوقف في الأونلاين
+openFolder=افتح المجلد
+pathPlaceholder=من فضلك اختر مجلد GTA 5...
+ready=جاهز
+red=أحمر
+resetAppearance=إعادة تعيين
+restore=استعادة
+saveClose=حفظ وإغلاق
+selectFolderTitle=اختر مجلد تثبيت GTA 5
+settings=الإعدادات
+statusBackupDone=تم إنشاء النسخة الاحتياطية: {0}
+statusBattleEyeOff=تم إيقاف BattleEye (تم كتابة args.txt).
+statusBattleEyeOn=تم استرجاع BattleEye (تم حذف args.txt).
+statusCopied=تم نسخ الملفات الأصلية إلى مجلد اللعبة.
+statusFolderUpdated=تم تحديث مجلد اللعبة.
+statusMods=تم تفعيل وضع المودات.
+statusOnline=تم تفعيل وضع الأونلاين.
+statusRestored=تم استرجاع الملفات من النسخة الاحتياطية.
+statusSettingsSaved=تم حفظ الإعدادات.
+statusWorking=جارٍ العمل، انتظر من فضلك...
+title=مدير المودات EasyTurn
+transparency=الشفافية
