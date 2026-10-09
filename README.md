@@ -1,5 +1,7 @@
 # EasyTurn
 
+**v1.0.0** · made by [Sensin](https://bio.site/Sensin.mod) · GPL-3.0
+
 A simple, safe mod manager for GTA 5 single player. Turn all your mods on or off with one click,
 flip everything off before you go online, ban mods so they can never come back, and back up the
 game's original files so you can always return to vanilla. Nothing is ever deleted. 13 languages.
@@ -29,7 +31,18 @@ the game's genuine files can be backed up at any time.
 
 - Windows 10 or 11 (64-bit)
 - GTA V (Steam, Epic or Rockstar) — single-player modding only
-- To build from source: [.NET 8 SDK](https://dotnet.microsoft.com/download)
+
+### ⚠️ You must install .NET 8 first
+
+EasyTurn needs **.NET 8** and will not start without it. Download it from:
+
+**<https://dotnet.microsoft.com/download/dotnet/8.0>**
+
+- **Just running the app?** Get the **.NET Desktop Runtime 8 (x64)** — the smaller download.
+- **Building from source?** Get the **.NET 8 SDK** instead (it includes the runtime).
+
+If you launch EasyTurn and nothing happens, or Windows shows a missing-framework error, this is
+the reason — install .NET 8 and try again.
 
 ---
 

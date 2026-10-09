@@ -9,13 +9,23 @@
     <Platforms>x64</Platforms>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <ApplicationIcon>ico.ico</ApplicationIcon>
+
+    <!-- Product metadata shown in Windows (Explorer → Properties → Details) -->
+    <AssemblyTitle>EasyTurn</AssemblyTitle>
+    <Product>EasyTurn</Product>
+    <Description>One-click GTA 5 mod manager with vanilla file backups</Description>
     <Authors>Sensin</Authors>
     <Company>Sensin</Company>
-    <Description>Turn on/off mods with one click</Description>
-    <Copyright>Sensin</Copyright>
+    <Copyright>Copyright © 2026 Sensin</Copyright>
     <PackageIcon>Ico.jpg</PackageIcon>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
+
+    <!-- Version -->
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>1.0.0</InformationalVersion>
+    <!-- Keep the product version clean ("1.0.0") instead of appending the git SHA -->
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
   </PropertyGroup>
 
   <ItemGroup>
